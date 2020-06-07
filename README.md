@@ -8,6 +8,9 @@
 
 - [ ] [Grokking the Object Oriented Design Interview](https://www.educative.io/courses/grokking-the-object-oriented-design-interview)
 
+- [ ] [SystemsExpert](https://www.algoexpert.io/systems/fundamentals)
+
+
 ## Design Patterns And OOPS
 
 - [ ] [Software Design Patterns: Best Practices for Software Developers](https://www.educative.io/courses/software-design-patterns-best-practices)
@@ -22,12 +25,17 @@
 
 - [ ] [Leetcode](leetcode.com)
 
+- [ ] [Placement 100](https://practice.geeksforgeeks.org/courses/placement-100-2019)
+
+- [ ] [Algoexpert](https://www.algoexpert.io/questions)
+
 ## Web Development
 
 - [ ] [Web Development: a Primer](https://www.educative.io/courses/web-development-a-primer)
 
 - [ ] [A Complete Guide to Launching Your Website: From Local to Live](https://www.educative.io/courses/a-complete-guide-to-launching-your-website-from-local-to-live)
 
+- [ ] [ The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 
 ## Computer Networks
 
