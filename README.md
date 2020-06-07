@@ -2,7 +2,7 @@
 
 ## System Design
 
-- [ ] [Web Application & Software Architecture 101](https://www.educative.io/courses/web-application-software-architecture-101)
+- [x] [Web Application & Software Architecture 101](https://www.educative.io/courses/web-application-software-architecture-101)
 
 - [ ] [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
 
